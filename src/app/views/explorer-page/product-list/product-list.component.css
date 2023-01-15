@@ -1,0 +1,7 @@
+.product-card-container .compare-button{
+    display: none;
+}
+
+.product-card-container:hover .compare-button{
+    display: flex;
+}
